@@ -7,7 +7,7 @@
 
 <a href="https://camerondickie.ca/">my portfolio</a>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h1 align="center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></h1>
 
 ## By the way here are some of my statistics 🚀
 ![CameronDickie's github stats](https://github-readme-stats.vercel.app/api?username=CameronDickie&show_icons=true&theme=tokyonight)
@@ -19,7 +19,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact me : 
-<a href="mailto:cameronbdickie@gmail.com">cameronbdickie@gmail.com</a>
+<a align="center" href="mailto:cameronbdickie@gmail.com">cameronbdickie@gmail.com</a>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cam.dickie/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cam_dickie_)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://camerondickie.ca)
