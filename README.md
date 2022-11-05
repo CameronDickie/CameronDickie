@@ -27,13 +27,14 @@
 <h2 align="center"><a href="https://youtu.be/oFy4lbCUjUQ?t=12">"Someone must extingush thy flame"</a></h2>
 
 ------
-readme modified from
-Credit: [AkuraDiary](https://github.com/AkuraDiary)
+
 
 Last Edited on: 21/08/2021
 <!--
 **CameronDickie/CameronDickie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+readme modified from
+Credit: [AkuraDiary](https://github.com/AkuraDiary)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
