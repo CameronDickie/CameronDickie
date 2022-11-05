@@ -20,6 +20,7 @@
 
 ## Contact me : 
 <a align="center" href="mailto:cameronbdickie@gmail.com">cameronbdickie@gmail.com</a>
+<br>
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cam.dickie/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cam_dickie_)
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://camerondickie.ca)
