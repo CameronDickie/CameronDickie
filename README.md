@@ -5,6 +5,8 @@
 ### I grew up with a passion for design and am building skills to translate that to interactivity
 ### prefer to go by Cam (he/him), send me a message!
 
+<a href="https://camerondickie.ca/">my portfolio</a>
+
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
@@ -19,7 +21,8 @@
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-cameronbdickie@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:cameronbdickie@gmail.com)](cameronbdickie@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-cam.dickie-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/cam.dickie/)](https://www.instagram.com/cam.dickie/)
-
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/cam_dickie_)
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://camerondickie.ca)
 
 <h2 align="center"><a href="https://youtu.be/oFy4lbCUjUQ?t=12">"Someone must extingush thy flame"</a></h2>
 
