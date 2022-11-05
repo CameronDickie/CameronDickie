@@ -5,9 +5,9 @@
 ### I grew up with a passion for design and am building skills to translate that to interactivity
 ### prefer to go by Cam (he/him), send me a message!
 
-<a href="https://camerondickie.ca/">my portfolio</a>
+<h1 align="center"><a href="https://camerondickie.ca/">my portfolio</a></h1>
 
-<h1 align="center"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></h1>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## By the way here are some of my statistics 🚀
 ![CameronDickie's github stats](https://github-readme-stats.vercel.app/api?username=CameronDickie&show_icons=true&theme=tokyonight)
