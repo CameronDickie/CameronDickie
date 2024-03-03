@@ -1,6 +1,5 @@
 <h1 align="center">"Emboldened by the flame of ambition"<img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="30"> </h1>
 
-### :brain: I am a student at Carleton University
 
 ### I grew up with a passion for design and am building skills to translate that to interactivity
 ### prefer to go by Cam (he/him), send me a message!
